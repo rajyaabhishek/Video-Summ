@@ -6,3 +6,6 @@ A Video Summarization Project, Coming to End
 
 Name the root directory as CA-SUM-main . as most is taken from them.
 Also add the TVSum.zip to .../inference/pretrained_models , cut and paste it (simple)
+
+
+Just trainded it for 10 epochs , you can train it longer epochs , it will defintitely beat the benchmarks!
